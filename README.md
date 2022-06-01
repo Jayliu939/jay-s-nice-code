@@ -1,8 +1,7 @@
-# jay-s-nice-code
-ForkForkFork
+# About jay-s-nice-code
 
-## About
-I think it is a kind of computer simulator, there is a minigame (guess the number) inside there.
+## JayOS
+It is a computer simulation, with a minigame (guess-the-number) inside
 
-## What
-I am trying to make it better because I am boredx
+## Python stuff
+Python syntax and examples in Jupyter Notebook
